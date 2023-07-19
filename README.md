@@ -5,7 +5,7 @@
 
 *IMPORTANT NOTICE: The component does not work out-of-the box on **Mac** machines due to the lack of  [td_pip](https://td-olib.org/component/td-pip) support. You can still install the dependency manually to your machine probably.*
 
-**The component is available on my [Patreon](https://www.patreon.com/posts/toptomidi-sonify-85984813), this page serves documentation purposes only.**
+**The component is available on my [Patreon](https://www.patreon.com/posts/toptomidi-sonify-85984813), this page serves documentation purposes only. See [this](https://youtu.be/4SU6WOZVqjk?t=3900) livestream for a quick overview.**
 
 # Glossary
 
