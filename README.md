@@ -4,7 +4,8 @@
 *A general-purpose visual sonification **TouchDesigner** component by **Function Store (Daniel Molnar)** ([@function.str](https://instagram.com/function.str); dan@functionstore.xyz).*
 
 *IMPORTANT NOTICE: The component does not work out-of-the box on **Mac** machines due to the lack of  [td_pip](https://td-olib.org/component/td-pip) support. You can still install the dependency manually to your machine probably.*
-** The component is available on my [Patreon](https://www.patreon.com/posts/toptomidi-sonify-85984813), this page serves documentation purposes**
+
+**The component is available on my [Patreon](https://www.patreon.com/posts/toptomidi-sonify-85984813), this page serves documentation purposes only.**
 
 # Glossary
 
